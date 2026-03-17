@@ -1,0 +1,57 @@
+Title: Git and GitHub Short Notes
+
+1. Introduction to Git
+   Git is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on the same project without conflicts.
+
+2. Features of Git
+
+* Tracks code changes
+* Supports branching and merging
+* Distributed version control
+* Enables collaboration among developers
+
+3. What is GitHub
+   GitHub is a cloud-based platform that hosts Git repositories. It allows developers to store, manage, and collaborate on projects using Git.
+
+4. Difference Between Git and GitHub
+   Git:
+
+* A version control tool
+* Works locally on a computer
+* Tracks code history
+
+GitHub:
+
+* A web-based platform
+* Stores repositories online
+* Supports team collaboration
+
+5. Important Git Commands
+   git init – Initialize a new Git repository
+   git clone – Copy a repository from GitHub
+   git add – Add files to staging area
+   git commit – Save changes in the repository
+   git push – Upload local changes to GitHub
+   git pull – Download updates from GitHub
+   git branch – Show or create branches
+   git checkout – Switch between branches
+   git merge – Combine branches
+
+6. What is a Repository
+   A repository (repo) is a storage location for project files and their version history.
+
+7. What is a Branch
+   A branch is a separate version of the code where developers can make changes without affecting the main project.
+
+8. What is a Pull Request
+   A pull request is a request to merge code changes from one branch into another branch after review.
+
+9. Benefits of Using Git and GitHub
+
+* Easy collaboration
+* Version tracking
+* Backup of project code
+* Efficient team development
+
+10. Conclusion
+    Git and GitHub are essential tools for modern software development. They help developers manage code, track changes, and collaborate effectively.
